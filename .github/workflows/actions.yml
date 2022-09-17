@@ -1,9 +1,11 @@
 name: Github Actions Debug
 on:
-  pull-request:
+  pull_request:
+    branches: 
+      - master
   push:
     branches: 
-      - develop
+      - master
 jobs:
   build:
     name: Running Units Tests
