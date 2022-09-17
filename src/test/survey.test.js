@@ -4,7 +4,7 @@ const chai                  = require('chai');
 const expect                = chai.expect;
 const SurveyModel           = require('../models/survey.model');
 
-//fixed haha
+//fixed asaswd
 
 describe("Survey Model", function(){
 
