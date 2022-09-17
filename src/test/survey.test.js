@@ -4,7 +4,7 @@ const chai                  = require('chai');
 const expect                = chai.expect;
 const SurveyModel           = require('../models/survey.model');
 
-//testing asd again
+//testing
 
 describe("Survey Model", function(){
 
